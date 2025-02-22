@@ -28,7 +28,7 @@
     </style>
 </head>
 <body>
-<h1>Tablas de multiplicar</h1>
+<h1>HOLA Tablas de multiplicar</h1>
 <div class="padre">
 <div class="hijo">
 	<h1>
