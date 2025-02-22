@@ -31,6 +31,7 @@
 <h1>Tablas de multiplicar</h1>
 <div class="padre">
 <div class="hijo">
+	<h1>
 <?php
 echo "tabla  del 1 <br>";
 $c=1;
@@ -42,6 +43,7 @@ while ($c<=10){
 }
 
 ?>
+	</h1>
 </div>
 <div class="hijo">
 <?php
